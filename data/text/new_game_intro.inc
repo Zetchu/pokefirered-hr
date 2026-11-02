@@ -1,5 +1,5 @@
 gOtherText_NewName::
-    .string "NEW NAME$"
+    .string "NOVO IME$"
 
 gNameChoice_Green::
     .string "GREEN$"
@@ -125,119 +125,121 @@ gNameChoice_Suzi::
     .string "SUZI$"
 
 gControlsGuide_Text_Intro::
-    .string "The various buttons will be explained in\n"
-    .string "the order of their importance.$"
+    .string "Slijedi objašnjenje tipki,\n"
+    .string "redom po važnosti.$"
 
 gControlsGuide_Text_DPad::
-    .string "Moves the main character.\n"
-    .string "Also used to choose various data\n"
-    .string "headings.$"
+    .string "Pomiče glavnog lika.\n"
+    .string "Služi i za odabir raznih\n"
+    .string "stavki.$"
 
 gControlsGuide_Text_AButton::
-    .string "Used to confirm a choice, check\n"
-    .string "things, chat, and scroll text.$"
+    .string "Potvrđuje odabir, pregledava\n"
+    .string "stvari, razgovara i nastavlja\n"
+    .string "tekst.$"
 
 gControlsGuide_Text_BButton::
-    .string "Used to exit, cancel a choice,\n"
-    .string "and cancel a mode.$"
+    .string "Služi za izlaz, poništavanje\n"
+    .string "odabira i prekid radnje.$"
 
 gControlsGuide_Text_StartButton::
-    .string "Press this button to open the\n"
-    .string "MENU.$"
+    .string "Ovom tipkom otvaraš\n"
+    .string "IZBORNIK.$"
 
 gControlsGuide_Text_SelectButton::
-    .string "Used to shift items and to use\n"
-    .string "a registered item.$"
+    .string "Premješta predmete i koristi\n"
+    .string "registrirani predmet.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "If you need help playing the\n"
-    .string "game, or on how to do things,\n"
-    .string "press the L or R Button.$"
+    .string "Ako ti treba pomoć u igri ili\n"
+    .string "ne znaš kako nešto napraviti,\n"
+    .string "pritisni tipku L ili R.$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "Now tell me. Are you a boy?\n"
-    .string "Or are you a girl?$"
+    .string "Reci mi, jesi li dječak?\n"
+    .string "Ili si djevojčica?$"
 
 gPikachuIntro_Text_Page1::
-    .string "In the world which you are about to\n"
-    .string "enter, you will embark on a grand\n"
-    .string "adventure with you as the hero.\n"
+    .string "U svijetu u koji upravo ulaziš\n"
+    .string "čeka te velika pustolovina\n"
+    .string "u kojoj si ti glavni junak.\n"
     .string "\n"
-    .string "Speak to people and check things\n"
-    .string "wherever you go, be it towns, roads,\n"
-    .string "or caves. Gather information and\n"
-    .string "hints from every source.$"
+    .string "Razgovaraj s ljudima i istražuj\n"
+    .string "sve oko sebe, u gradovima, na\n"
+    .string "cestama i u špiljama. Skupljaj\n"
+    .string "podatke i savjete gdje god možeš.$"
 
 gPikachuIntro_Text_Page2::
-    .string "New paths will open to you by helping\n"
-    .string "people in need, overcoming challenges,\n"
-    .string "and solving mysteries.\n"
+    .string "Novi putevi otvorit će ti se kad\n"
+    .string "pomogneš ljudima u nevolji,\n"
+    .string "svladaš izazove i riješiš zagonetke.\n"
     .string "\n"
-    .string "At times, you will be challenged by\n"
-    .string "others and attacked by wild creatures.\n"
-    .string "Be brave and keep pushing on.$"
+    .string "Ponekad će te drugi izazvati, a\n"
+    .string "napadat će te i divlja stvorenja.\n"
+    .string "Ne boj se i ne odustaj.$"
 
 gPikachuIntro_Text_Page3::
-    .string "Through your adventure, we hope\n"
-    .string "that you will interact with all sorts\n"
-    .string "of people and achieve personal growth.\n"
-    .string "That is our biggest objective.\n"
+    .string "Nadamo se da ćeš na svom putu\n"
+    .string "upoznati razne ljude i pritom\n"
+    .string "i sam odrasti. To nam je\n"
+    .string "najvažniji cilj.\n"
     .string "\n"
-    .string "Press the A Button, and let your\n"
-    .string "adventure begin!$"
+    .string "Pritisni tipku A i neka tvoja\n"
+    .string "pustolovina počne!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "Bok!\n"
+    .string "Drago mi je!\p"
+    .string "Ulaziš u svijet POKéMONA!\p"
+    .string "Zovem se OAK.\p"
+    .string "Ljudi me od milja zovu\n"
+    .string "POKéMON PROFESOR.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "U ovom svijetu…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "…posvuda žive stvorenja\n"
+    .string "koja zovemo POKéMONI.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "Nekima su POKéMONI ljubimci.\n"
+    .string "Drugi ih koriste za borbe.\p"
+    .string "A ja…\p"
+    .string "Ja POKéMONE proučavam\n"
+    .string "profesionalno.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Ali prvo mi reci nešto\n"
+    .string "o sebi.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Let's begin with your name.\n"
-    .string "What is it?\p$"
+    .string "Počnimo s tvojim imenom.\n"
+    .string "Kako se zoveš?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "Dobro…\n"
+    .string "Dakle, zoveš se {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "Ovo je moj unuk.\p"
+    .string "Vas dvoje ste suparnici još\n"
+    .string "od malih nogu.\p"
+    .string "…Hm, kako se ono zvao?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "Kako se ono zvao tvoj suparnik?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "…Hm, zove li se {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "Tako je! Sad se sjećam!\n"
+    .string "Zove se {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Your very own POKéMON legend is\n"
-    .string "about to unfold!\p"
-    .string "A world of dreams and adventures\n"
-    .string "with POKéMON awaits! Let's go!$"
+    .string "Tvoja vlastita POKéMON legenda\n"
+    .string "upravo počinje!\p"
+    .string "Svijet snova i pustolovina\n"
+    .string "s POKéMONIMA te čeka! Krenimo!$"
