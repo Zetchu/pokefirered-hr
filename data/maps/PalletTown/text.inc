@@ -1,67 +1,67 @@
 PalletTown_Text_OakDontGoOut::
-    .string "OAK: Hey! Wait!\n"
-    .string "Don't go out!$"
+    .string "OAK: Hej! Čekaj!\n"
+    .string "Ne izlazi!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "OAK: It's unsafe!\n"
-    .string "Wild POKéMON live in tall grass!\p"
-    .string "You need your own POKéMON for\n"
-    .string "your protection.\p"
-    .string "I know!\n"
-    .string "Here, come with me!$"
+    .string "OAK: Opasno je!\n"
+    .string "U visokoj travi žive divlji\l"
+    .string "POKéMONI!\p"
+    .string "Treba ti vlastiti POKéMON\n"
+    .string "za zaštitu.\p"
+    .string "Znam!\n"
+    .string "Hajde, pođi sa mnom!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "I'm raising POKéMON, too.\p"
-    .string "When they get strong, they can\n"
-    .string "protect me.$"
+    .string "I ja uzgajam POKéMONE.\p"
+    .string "Kad ojačaju, moći će\n"
+    .string "me zaštititi.$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "Technology is incredible!\p"
-    .string "You can now store and recall items\n"
-    .string "and POKéMON as data via PC.$"
+    .string "Tehnologija je nevjerojatna!\p"
+    .string "Preko PC-a sada možeš spremati\n"
+    .string "i vaditi predmete i POKéMONE.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "OAK POKéMON RESEARCH LAB$"
+    .string "OAKOV POKéMON LABORATORIJ$"
 
 PalletTown_Text_PlayersHouse::
-    .string "{PLAYER}'s house$"
+    .string "Kuća: {PLAYER}$"
 
 PalletTown_Text_RivalsHouse::
-    .string "{RIVAL}'s house$"
+    .string "Kuća: {RIVAL}$"
 
 PalletTown_Text_TownSign::
     .string "PALLET TOWN\n"
-    .string "Shades of your journey await!$"
+    .string "Ovdje počinju boje tvog putovanja!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-    .string "OAK: Ah, {PLAYER}!\n"
-    .string "You're back, are you?\p"
-    .string "How much have you filled in your\n"
+    .string "OAK: A, {PLAYER}!\n"
+    .string "Opet ti ovdje?\p"
+    .string "Koliko je popunjen tvoj\n"
     .string "POKéDEX?\p"
-    .string "May I see it?\p"
-    .string "Let's see…$"
+    .string "Smijem li ga vidjeti?\p"
+    .string "Da vidimo…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
-    .string "You've caught {STR_VAR_2}…\p"
-    .string "Hm, it looks as if you're putting\n"
-    .string "in an honest effort.\p"
-    .string "When you manage to fill it some\n"
-    .string "more, come show me, please.$"
+    .string "Broj uhvaćenih: {STR_VAR_2}…\p"
+    .string "Hm, vidim da se stvarno\n"
+    .string "trudiš.\p"
+    .string "Kad ga još malo popuniš,\n"
+    .string "dođi mi ga pokazati.$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-    .string "You've caught… {STR_VAR_2}!?\n"
-    .string "Now, this is impressive!\p"
-    .string "There's something I wanted to ask\n"
-    .string "of you, {PLAYER}.\p"
-    .string "Come.\n"
-    .string "Follow me.$"
+    .string "Broj uhvaćenih… {STR_VAR_2}!?\n"
+    .string "Pa ovo je impresivno!\p"
+    .string "Želim te nešto zamoliti,\n"
+    .string "{PLAYER}.\p"
+    .string "Dođi.\n"
+    .string "Prati me.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-    .string "OAK: Ah, {PLAYER}!\n"
-    .string "You seem to be enjoying traveling.\p"
-    .string "Knowing you, {PLAYER}, I can easily\n"
-    .string "imagine you going out to even more\l"
-    .string "exotic locales.\p"
-    .string "Good for you, good for you.\n"
+    .string "OAK: A, {PLAYER}!\n"
+    .string "Vidim da uživaš u putovanjima.\p"
+    .string "Koliko te znam, {PLAYER}, lako\n"
+    .string "mogu zamisliti da ćeš otići na\l"
+    .string "još egzotičnija mjesta.\p"
+    .string "Bravo, bravo.\n"
     .string "Hohoho.$"
-

@@ -10,7 +10,12 @@ Stalni prijevodi pojmova. Isti engleski pojam uvijek se prevodi isto. Novi pojam
 - **Dinamička imena** (`{PLAYER}`, `{RIVAL}`, `{STR_VAR_1}`…): uvijek u nominativu, bez slaganja po rodu.
 - **Spol igrača:** dok igrač ne odabere spol (Oakov uvod), i u tekstu koji vrijedi za oba spola, izbjegavati rod („Ulaziš u svijet…“, a ne „Dobro došao“; „Ne boj se“, a ne „Budi hrabar“).
 - **POKéMON se sklanja** u fiksnom tekstu: POKéMONA, POKéMONI, POKéMONE, POKéMONIMA. U složenicama ostaje nesklonjen: POKéMON PROFESOR, POKéMON legenda.
-- **Širina retka:** provjeriti u pikselima da redak stane u prozor. Opisi tipki imaju 192 px, Oakov dijalog oko 198 px.
+- **Širina retka:** provjeriti u pikselima da redak stane u prozor. Opisi tipki imaju 192 px, a dijaloški okvir najviše 202 px (najširi engleski redak).
+- **Dijaloški okvir ima 2 retka:** prvi prijelom je `\n`, svaki sljedeći unutar iste stranice mora biti `\l` (pomakne tekst), nova stranica je `\p`.
+- **Radnje igrača bez roda:** „{PLAYER} dobiva KARTU…“ (prezent) umjesto „je dobio/dobila“; „Opet ti ovdje?“ umjesto „Vratio si se?“.
+- **Posvojnost uz ime:** „Kuća: {PLAYER}“ umjesto genitiva.
+- **Brojevi:** „Broj uhvaćenih: {STR_VAR_2}“ umjesto slaganja imenice s brojem.
+- **Navodnici:** „ ne postoji u fontu, za sada se koriste “ ”.
 
 ## Pojmovi
 
@@ -27,7 +32,12 @@ Stalni prijevodi pojmova. Isti engleski pojam uvijek se prevodi isto. Novi pojam
 | PC | PC | ostaje |
 | BOX | BOX | ostaje |
 | BAG | TORBA | probno |
-| PROFESSOR | ? | profesor? |
+| PROFESSOR / PROF. | PROFESOR / PROF. | |
+| MOM | MAMA | |
+| LAB | LABORATORIJ | |
+| EGG | JAJE | |
+| HELP | POMOĆ | |
+| TOWN MAP | KARTA | item |
 
 ## Itemi
 

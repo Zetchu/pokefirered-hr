@@ -1,10 +1,9 @@
 PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
-    .string "{PLAYER} played with the NES.\p"
-    .string "…Okay!\n"
-    .string "It's time to go!$"
+    .string "{PLAYER} se igra s NES-om.\p"
+    .string "…Dobro!\n"
+    .string "Vrijeme je za polazak!$"
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
-    .string "It's a posted notice…\p"
-    .string "If you're confused, ask for HELP!\n"
-    .string "Press the L or R Button!$"
-
+    .string "Na zidu je obavijest…\p"
+    .string "Ako ne znaš što dalje, traži POMOĆ!\n"
+    .string "Pritisni tipku L ili R!$"
