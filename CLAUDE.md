@@ -10,7 +10,8 @@ Hrvatski fan prijevod Pokémon FireRed/LeafGreen, na bazi [pret/pokefirered](htt
 
 - **Ostaje na engleskom:** imena Pokémona, napada (moves) i abilityja.
 - **Prevodi se:** dijalozi, meniji, opisi (Pokédex, itemi, napadi), sistemske poruke.
-- **Dijakritici:** treba dodati č ć š ž đ i Č Ć Š Ž Đ u font (`graphics/fonts/latin_*.png` + širine glifova u `src/text.c`) i u `charmap.txt`. Dok to nije gotovo, ne koristiti ih u tekstu.
+- **Terminologija:** `docs/pojmovnik.md` je izvor istine za pojmove (Torba, GYM, obraćanje s „ti“, velika slova kao u EN).
+- **Dijakritici:** č ć š ž đ i Č Ć Š Ž Đ su u fontu i `charmap.txt`, na mjestima bivših njemačkih/španjolskih znakova: Č Ć Š = F1 F2 F3, č ć š = F4 F5 F6, Ž ž = 14 29, Đ đ = 15 2A (`CHAR_C_CARON` itd. u `include/characters.h`). Španjolski/njemački znakovi su uklonjeni iz charmapa. Tipkovnica za upis imena (`src/naming_screen.c`) još nema naša slova.
 - **Dinamička imena:** igra ubacuje `{PLAYER}`, `{RIVAL}`, `{STR_VAR_1}`, imena Pokémona i slično u runtimeu. Rečenice oblikovati tako da ime stoji u nominativu i da ne ovisi o rodu (npr. „Pokémon {STR_VAR_1} je naučio…“ izbjegavati; bolje „{STR_VAR_1}: naučen novi napad!“ ili neutralne konstrukcije).
 - **Prostor je ograničen:** tekstni okviri imaju fiksnu širinu, a `\n` / `\l` / `\p` kontroliraju prijelome. Nakon prijevoda provjeriti u emulatoru da tekst ne izlazi iz okvira.
 
