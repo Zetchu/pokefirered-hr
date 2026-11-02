@@ -5,7 +5,7 @@ Stalni prijevodi pojmova. Isti engleski pojam uvijek se prevodi isto. Novi pojam
 ## Opća pravila
 
 - **Obraćanje:** igraču se svi obraćaju s „ti“.
-- **Velika slova:** kao u engleskoj verziji: `POKéMON`, `POKé BALL`, imena gradova i likova (`OAK`, `PALLET TOWN`) ostaju velikim slovima.
+- **Velika slova:** kao u engleskoj verziji: `POKéMON`, `POKé LOPTA`, imena gradova i likova (`OAK`, `PALLET TOWN`) ostaju velikim slovima.
 - **Ostaju na engleskom:** imena Pokémona, napada (moves), abilityja, gradova i ruta.
 - **Dinamička imena** (`{PLAYER}`, `{RIVAL}`, `{STR_VAR_1}`…): uvijek u nominativu, bez slaganja po rodu.
 - **Spol igrača:** dok igrač ne odabere spol (Oakov uvod), i u tekstu koji vrijedi za oba spola, izbjegavati rod („Ulaziš u svijet…“, a ne „Dobro došao“; „Ne boj se“, a ne „Budi hrabar“).
@@ -28,7 +28,8 @@ Stalni prijevodi pojmova. Isti engleski pojam uvijek se prevodi isto. Novi pojam
 | GYM LEADER | GYM LEADER | ostaje |
 | BADGE | ? | još nije odlučeno (značka / bedž) |
 | POKé MART | POKé MART | ostaje |
-| POKéMON CENTER | ? | još nije odlučeno |
+| POKéMON CENTER | POKéMON CENTER | ostaje |
+| POKé BALL | POKé LOPTA | ženski rod: POKé LOPTE, POKé LOPTU, POKé LOPTAMA, pet POKé LOPTI |
 | PC | PC | ostaje |
 | BOX | BOX | ostaje |
 | BAG | TORBA | probno |
@@ -38,10 +39,21 @@ Stalni prijevodi pojmova. Isti engleski pojam uvijek se prevodi isto. Novi pojam
 | EGG | JAJE | |
 | HELP | POMOĆ | |
 | TOWN MAP | KARTA | item |
+| OAK'S PARCEL | OAKOV PAKET | item |
+| POKéMON TRAINER | POKéMON TRENER | |
+| POKéMON LEAGUE | POKéMON LIGA | sklanja se: POKéMON LIGE |
+| AIDE | POMOĆNIK | |
+| MENU / SAVE | IZBORNIK / SPREMI | |
+| Gramps | djed / Djede! | rival tako zove Oaka |
+| Smell you later! | Vidimo se, papci! | rivalova uzrečica |
+| FIRE / WATER / GRASS POKéMON | VATRENI / VODENI / TRAVNATI POKéMON | u dijalogu; nazivi tipova u UI-ju još nisu odlučeni |
+
+Imena Pokémona se **ne** sklanjaju („tvoj izbor je VATRENI POKéMON CHARMANDER“).
 
 ## Itemi
 
-- **Ostaju na engleskom:** balli i „Poké“ itemi (POKé BALL, GREAT BALL, ULTRA BALL, MASTER BALL, POKé FLUTE…).
+- **POKé BALL → POKé LOPTA.** Ostali balli (GREAT BALL, ULTRA BALL, MASTER BALL…) još nisu odlučeni.
+- **Ostaju na engleskom:** ostali „Poké“ itemi (POKé FLUTE…).
 - **Prevode se:** generički predmeti.
 
 | EN | HR |

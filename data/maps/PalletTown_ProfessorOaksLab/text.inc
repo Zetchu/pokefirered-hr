@@ -1,357 +1,358 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-    .string "{RIVAL}: What, it's only {PLAYER}?\n"
-    .string "Gramps isn't around.$"
+    .string "{RIVAL}: Što, samo {PLAYER}?\n"
+    .string "Djeda nema.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Gramps!\n"
-    .string "I'm fed up with waiting!$"
+    .string "{RIVAL}: Djede!\n"
+    .string "Dosta mi je čekanja!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Hey! Gramps! No fair!\n"
-    .string "What about me?$"
+    .string "{RIVAL}: Hej! Djede! Nije fer!\n"
+    .string "A ja?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
-    .string "{RIVAL}: Heh, I don't need to be\n"
-    .string "greedy like you. I'm mature!\p"
-    .string "Go ahead and choose, {PLAYER}!$"
+    .string "{RIVAL}: Heh, ja ne moram biti\n"
+    .string "pohlepan kao ti. Ja sam zreo!\p"
+    .string "Samo ti biraj, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
-    .string "{RIVAL}: I'll take this one, then!$"
+    .string "{RIVAL}: Onda ja uzimam ovog!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-    .string "{RIVAL} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
+    .string "{RIVAL} dobiva {STR_VAR_1}\n"
+    .string "od PROF. OAKA!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-    .string "{RIVAL}: My POKéMON looks a lot\n"
-    .string "tougher than yours.$"
+    .string "{RIVAL}: Moj POKéMON izgleda\n"
+    .string "puno jače od tvog.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-    .string "{RIVAL}: Wait, {PLAYER}!\n"
-    .string "Let's check out our POKéMON!\p"
-    .string "Come on, I'll take you on!$"
+    .string "{RIVAL}: Čekaj, {PLAYER}!\n"
+    .string "Daj da isprobamo POKéMONE!\p"
+    .string "Hajde, izazivam te!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-    .string "WHAT?\n"
-    .string "Unbelievable!\l"
-    .string "I picked the wrong POKéMON!$"
+    .string "ŠTO?\n"
+    .string "Nevjerojatno!\l"
+    .string "Uzeo sam krivog POKéMONA!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
-    .string "{RIVAL}: Yeah!\n"
-    .string "Am I great or what?$"
+    .string "{RIVAL}: Da!\n"
+    .string "Jesam li super ili što?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
-    .string "{RIVAL}: Okay! I'll make my\n"
-    .string "POKéMON battle to toughen it up!\p"
-    .string "{PLAYER}! Gramps!\n"
-    .string "Smell you later!$"
+    .string "{RIVAL}: Dobro! Pustit ću svog\n"
+    .string "POKéMONA u borbe da ojača!\p"
+    .string "{PLAYER}! Djede!\n"
+    .string "Vidimo se, papci!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-    .string "{RIVAL}: Gramps!$"
+    .string "{RIVAL}: Djede!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
-    .string "{RIVAL}: I almost forgot!\n"
-    .string "What did you call me for?$"
+    .string "{RIVAL}: Skoro sam zaboravio!\n"
+    .string "Zašto si me zvao?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
-    .string "{RIVAL}: All right, Gramps!\n"
-    .string "Leave it all to me!$"
+    .string "{RIVAL}: U redu, djede!\n"
+    .string "Prepusti sve meni!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
-    .string "{PLAYER}, I hate to say it, but you\n"
-    .string "won't be necessary for this.\p"
-    .string "I know! I'll borrow a TOWN MAP\n"
-    .string "from my sis!\p"
-    .string "I'll tell her not to lend you one,\n"
-    .string "{PLAYER}! Hahaha!\p"
-    .string "Don't bother coming around to\n"
-    .string "my place after this!$"
+    .string "{PLAYER}, žao mi je, ali ti\n"
+    .string "mi za ovo ne trebaš.\p"
+    .string "Znam! Posudit ću KARTU\n"
+    .string "od sestre!\p"
+    .string "Reći ću joj da tebi ne posudi\n"
+    .string "nijednu, {PLAYER}! Hahaha!\p"
+    .string "Nema potrebe da poslije\n"
+    .string "dolaziš k meni!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
     .string "OAK: {RIVAL}?\n"
-    .string "Let me think…\p"
-    .string "Oh, that's right, I told you to\n"
-    .string "come! Just wait!\p"
-    .string "Here, {PLAYER}.\p"
-    .string "There are three POKéMON here.\p"
+    .string "Da razmislim…\p"
+    .string "A da, rekao sam ti da\n"
+    .string "dođeš! Samo čekaj!\p"
+    .string "Evo, {PLAYER}.\p"
+    .string "Ovdje su tri POKéMONA.\p"
     .string "Haha!\p"
-    .string "The POKéMON are held inside\n"
-    .string "these POKé BALLS.\p"
-    .string "When I was young, I was a serious\n"
-    .string "POKéMON TRAINER.\p"
-    .string "But now, in my old age, I have\n"
-    .string "only these three left.\p"
-    .string "You can have one.\n"
-    .string "Go on, choose!$"
+    .string "POKéMONI su u ovim\n"
+    .string "POKé LOPTAMA.\p"
+    .string "Kad sam bio mlad, bio sam\n"
+    .string "ozbiljan POKéMON TRENER.\p"
+    .string "Ali sada, u starosti, ostala\n"
+    .string "su mi samo ova tri.\p"
+    .string "Jednog možeš uzeti.\n"
+    .string "Hajde, biraj!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
-    .string "OAK: Be patient, {RIVAL}.\n"
-    .string "You can have one, too!$"
+    .string "OAK: Strpljenja, {RIVAL}.\n"
+    .string "I ti ćeš dobiti jednog!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
-    .string "OAK: Now, {PLAYER}.\p"
-    .string "Inside those three POKé BALLS are\n"
-    .string "POKéMON.\p"
-    .string "Which one will you choose for\n"
-    .string "yourself?$"
+    .string "OAK: Dakle, {PLAYER}.\p"
+    .string "U ove tri POKé LOPTE su\n"
+    .string "POKéMONI.\p"
+    .string "Kojeg ćeš\n"
+    .string "odabrati?$"
 
 PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
-    .string "OAK: Hey!\n"
-    .string "Don't go away yet!$"
+    .string "OAK: Hej!\n"
+    .string "Nemoj još otići!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-    .string "Ah! CHARMANDER is your choice.\n"
-    .string "You should raise it patiently.\p"
-    .string "So, {PLAYER}, you're claiming the\n"
-    .string "FIRE POKéMON CHARMANDER?$"
+    .string "A! CHARMANDER, dakle.\n"
+    .string "Odgajaj ga strpljivo.\p"
+    .string "{PLAYER}, tvoj izbor je\n"
+    .string "VATRENI POKéMON CHARMANDER?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-    .string "Hm! SQUIRTLE is your choice.\n"
-    .string "It's one worth raising.\p"
-    .string "So, {PLAYER}, you've decided on the\n"
-    .string "WATER POKéMON SQUIRTLE?$"
+    .string "Hm! SQUIRTLE, dakle.\n"
+    .string "Vrijedi ga odgajati.\p"
+    .string "{PLAYER}, tvoj izbor je\n"
+    .string "VODENI POKéMON SQUIRTLE?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-    .string "I see! BULBASAUR is your choice.\n"
-    .string "It's very easy to raise.\p"
-    .string "So, {PLAYER}, you want to go with\n"
-    .string "the GRASS POKéMON BULBASAUR?$"
+    .string "Aha! BULBASAUR, dakle.\n"
+    .string "Vrlo ga je lako odgajati.\p"
+    .string "{PLAYER}, tvoj izbor je\n"
+    .string "TRAVNATI POKéMON BULBASAUR?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
-    .string "This POKéMON is really quite\n"
-    .string "energetic!$"
+    .string "Ovaj POKéMON je stvarno\n"
+    .string "pun energije!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
-    .string "from PROF. OAK!$"
+    .string "{PLAYER} dobiva {STR_VAR_1}\n"
+    .string "od PROF. OAKA!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
-    .string "OAK: If a wild POKéMON appears,\n"
-    .string "your POKéMON can battle it.\p"
-    .string "With it at your side, you should be\n"
-    .string "able to reach the next town.$"
+    .string "OAK: Ako se pojavi divlji POKéMON,\n"
+    .string "tvoj POKéMON se može boriti.\p"
+    .string "S njim uz sebe lako ćeš\n"
+    .string "stići do sljedećeg grada.$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
-    .string "OAK: {PLAYER}, raise your young\n"
-    .string "POKéMON by making it battle.\p"
-    .string "It has to battle for it to grow.$"
+    .string "OAK: {PLAYER}, odgajaj svog\n"
+    .string "mladog POKéMONA kroz borbe.\p"
+    .string "Mora se boriti da bi rastao.$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
-    .string "OAK: Oh, {PLAYER}!\n"
-    .string "How is my old POKéMON?\p"
-    .string "Well, it seems to be growing more\n"
-    .string "attached to you.\p"
-    .string "You must be talented as a POKéMON\n"
-    .string "TRAINER.\p"
-    .string "What's that?\n"
-    .string "You have something for me?$"
+    .string "OAK: O, {PLAYER}!\n"
+    .string "Kako je moj stari POKéMON?\p"
+    .string "Čini se da ti je sve\n"
+    .string "privrženiji.\p"
+    .string "Očito imaš pravi\n"
+    .string "TRENERSKI talent.\p"
+    .string "Što je to?\n"
+    .string "Imaš nešto za mene?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-    .string "{PLAYER} delivered OAK'S PARCEL.$"
+    .string "{PLAYER} predaje OAKOV PAKET.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
-    .string "Ah! \n"
-    .string "It's the custom POKé BALL!\p"
-    .string "I had it on order.\n"
-    .string "Thank you!$"
+    .string "A! \n"
+    .string "To je POKé LOPTA po mjeri!\p"
+    .string "Davno sam je naručio.\n"
+    .string "Hvala ti!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo::
-    .string "OAK: Oh, right!\n"
-    .string "I have a request for you two.$"
+    .string "OAK: A da!\n"
+    .string "Imam molbu za vas dvoje.$"
 
 PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
-    .string "On the desk there is my invention,\n"
-    .string "the POKéDEX!\p"
-    .string "It automatically records data on\n"
-    .string "POKéMON you've seen or caught.\p"
-    .string "It's a high-tech encyclopedia!$"
+    .string "Na stolu je moj izum,\n"
+    .string "POKéDEX!\p"
+    .string "Sam bilježi podatke o POKéMONIMA\n"
+    .string "koje vidiš ili uhvatiš.\p"
+    .string "To je moderna enciklopedija!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
-    .string "OAK: {PLAYER} and {RIVAL}.\n"
-    .string "Take these with you.$"
+    .string "OAK: {PLAYER} i {RIVAL}.\n"
+    .string "Uzmite ovo sa sobom.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-    .string "{PLAYER} received the POKéDEX\n"
-    .string "from PROF. OAK.$"
+    .string "{PLAYER} dobiva POKéDEX\n"
+    .string "od PROF. OAKA.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
-    .string "OAK: You can't get detailed data\n"
-    .string "on POKéMON by just seeing them.\p"
-    .string "You must catch them to obtain\n"
-    .string "complete data.\p"
-    .string "So, here are some tools for\n"
-    .string "catching wild POKéMON.$"
+    .string "OAK: Samo gledanjem ne dobivaš\n"
+    .string "sve podatke o POKéMONIMA.\p"
+    .string "Za potpune podatke moraš ih\n"
+    .string "uhvatiti.\p"
+    .string "Zato, evo ti nešto za\n"
+    .string "hvatanje divljih POKéMONA.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-    .string "{PLAYER} received five POKé BALLS.$"
+    .string "{PLAYER} dobiva pet POKé LOPTI.$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
-    .string "When a wild POKéMON appears,\n"
-    .string "it's fair game.\p"
-    .string "Just throw a POKé BALL at it and\n"
-    .string "try to catch it!\p"
-    .string "This won't always work, however.\p"
-    .string "A healthy POKéMON can escape.\n"
-    .string "You have to be lucky!$"
+    .string "Kad se pojavi divlji POKéMON,\n"
+    .string "slobodno ga hvataj.\p"
+    .string "Samo baci POKé LOPTU na njega\n"
+    .string "i pokušaj ga uhvatiti!\p"
+    .string "Ali to neće uvijek uspjeti.\p"
+    .string "Zdrav POKéMON može pobjeći.\n"
+    .string "Treba imati sreće!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
-    .string "To make a complete guide on all\n"
-    .string "the POKéMON in the world…\p"
-    .string "That was my dream!\p"
-    .string "But, I'm too old.\n"
-    .string "I can't get the job done.\p"
-    .string "So, I want you two to fulfill my\n"
-    .string "dream for me.\p"
-    .string "Get moving, you two.\p"
-    .string "This is a great undertaking in\n"
-    .string "POKéMON history!$"
+    .string "Napraviti potpuni vodič o svim\n"
+    .string "POKéMONIMA na svijetu…\p"
+    .string "To je bio moj san!\p"
+    .string "Ali prestar sam.\n"
+    .string "Ne mogu to sam napraviti.\p"
+    .string "Zato želim da vas dvoje\n"
+    .string "ispunite moj san.\p"
+    .string "Krenite, vas dvoje.\p"
+    .string "Ovo je velik pothvat u\n"
+    .string "povijesti POKéMONA!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-    .string "POKéMON around the world wait for\n"
-    .string "you, {PLAYER}!$"
+    .string "POKéMONI diljem svijeta\n"
+    .string "čekaju te, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
-    .string "Ah, {PLAYER}!\n"
-    .string "How is your POKéDEX shaping up?\p"
-    .string "{RIVAL} has already caught some\n"
-    .string "POKéMON and added to the data.\p"
-    .string "So, {PLAYER}, let's have a look at\n"
-    .string "your POKéDEX.\p"
-    .string "…What's the matter?\n"
-    .string "You've added no new data at all.\p"
-    .string "I'll give you these, so do try a\n"
-    .string "little harder.$"
+    .string "A, {PLAYER}!\n"
+    .string "Kako napreduje tvoj POKéDEX?\p"
+    .string "{RIVAL} je već uhvatio nekoliko\n"
+    .string "POKéMONA i dodao podatke.\p"
+    .string "Dakle, {PLAYER}, da pogledamo\n"
+    .string "tvoj POKéDEX.\p"
+    .string "…Što je bilo?\n"
+    .string "Nema nijednog novog podatka!\p"
+    .string "Dat ću ti ovo, pa se\n"
+    .string "malo više potrudi.$"
 
 PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime::
-    .string "OAK: Come see me sometime.\p"
-    .string "After all, I want to know how your\n"
-    .string "POKéDEX is coming along.$"
+    .string "OAK: Navrati ponekad.\p"
+    .string "Želim znati kako napreduje\n"
+    .string "tvoj POKéDEX.$"
 
 PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia::
-    .string "It's like an encyclopedia, but the\n"
-    .string "pages are blank.$"
+    .string "Kao enciklopedija, ali su\n"
+    .string "stranice prazne.$"
 
 PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
-    .string "Those are POKé BALLS.\n"
-    .string "They contain POKéMON!$"
+    .string "To su POKé LOPTE.\n"
+    .string "U njima su POKéMONI!$"
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
-    .string "That's PROF. OAK's last POKéMON.$"
+    .string "To je posljednji POKéMON\n"
+    .string "PROF. OAKA.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-    .string "Press START to open the MENU!$"
+    .string "Pritisni START za IZBORNIK!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-    .string "The SAVE option is on the MENU.\n"
-    .string "Use it regularly.$"
+    .string "Opcija SPREMI je u IZBORNIKU.\n"
+    .string "Koristi je redovito.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
-    .string "All POKéMON types have strong and\n"
-    .string "weak points against others.$"
+    .string "Svi tipovi POKéMONA imaju\n"
+    .string "prednosti i slabosti.$"
 
 PalletTown_ProfessorOaksLab_Text_EmailMessage::
-    .string "There's an e-mail message here.\p"
+    .string "Ovdje je e-mail poruka.\p"
     .string "…\p"
-    .string "Finally!\n"
-    .string "The ultimate TRAINERS of the\l"
-    .string "POKéMON LEAGUE are ready to\l"
-    .string "take on all comers!\p"
-    .string "Bring your best POKéMON and see\n"
-    .string "how you rate as a TRAINER!\p"
-    .string "POKéMON LEAGUE HQ\n"
+    .string "Konačno!\n"
+    .string "Vrhunski TRENERI\l"
+    .string "POKéMON LIGE spremni su\l"
+    .string "primiti sve izazivače!\p"
+    .string "Dovedite najbolje POKéMONE\n"
+    .string "i provjerite koliko vrijedite!\p"
+    .string "SJEDIŠTE POKéMON LIGE\n"
     .string "INDIGO PLATEAU\p"
-    .string "PROF. OAK, please visit us!\n"
+    .string "PROF. OAK, posjetite nas!\n"
     .string "…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "I study POKéMON as PROF. OAK's\n"
-    .string "AIDE.$"
+    .string "Proučavam POKéMONE kao\n"
+    .string "POMOĆNIK PROF. OAKA.$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
-    .string "Hi, {PLAYER}. I bet you've become\n"
-    .string "good friends with your POKéMON.\p"
-    .string "By the way, did you know about\n"
+    .string "Bok, {PLAYER}. Ti i tvoji POKéMONI\n"
+    .string "ste sigurno već dobri prijatelji.\p"
+    .string "Usput, znaš li za\n"
     .string "DAISY?\p"
-    .string "If you show DAISY your POKéMON,\n"
-    .string "she can tell how much it likes you.\p"
-    .string "Occasionally, she will even groom\n"
-    .string "a POKéMON for you.\p"
-    .string "This is a secret, so please don't\n"
-    .string "tell anyone.$"
+    .string "Ako DAISY pokažeš POKéMONA,\n"
+    .string "reći će ti koliko te voli.\p"
+    .string "Ponekad će ti čak i urediti\n"
+    .string "POKéMONA.\p"
+    .string "To je tajna, zato molim te\n"
+    .string "nikome ne govori.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
-    .string "PROF. OAK is going to have his own\n"
-    .string "radio show soon.\p"
-    .string "The program will be called PROF.\n"
-    .string "OAK's POKéMON SEMINAR.$"
+    .string "PROF. OAK će uskoro imati svoju\n"
+    .string "radijsku emisiju.\p"
+    .string "Emisija će se zvati\n"
+    .string "POKéMON SEMINAR PROF. OAKA.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
-    .string "PROF. OAK may not look like much,\n"
-    .string "but he's the authority on POKéMON.\p"
-    .string "Many POKéMON TRAINERS hold him in\n"
-    .string "high regard.$"
+    .string "PROF. OAK možda ne izgleda kao\n"
+    .string "netko poseban, ali on je\l"
+    .string "stručnjak za POKéMONE.\p"
+    .string "Mnogi POKéMON TRENERI ga\n"
+    .string "jako cijene.$"
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
-    .string "Ah, now this is excellent!\p"
-    .string "{PLAYER}, I have another important\n"
-    .string "favor to ask of you.\p"
-    .string "I need you to listen closely.$"
+    .string "A, ovo je odlično!\p"
+    .string "{PLAYER}, imam još jednu važnu\n"
+    .string "molbu za tebe.\p"
+    .string "Slušaj pažljivo.$"
 
 PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
-    .string "Recently, there have been sightings\n"
-    .string "of many rare POKéMON species.\p"
-    .string "I'm talking about POKéMON that\n"
-    .string "have never been seen in KANTO.\p"
-    .string "I would love to go see things for\n"
-    .string "myself, but I'm much too old.\p"
-    .string "Since I can't do it, {PLAYER}, I'd\n"
-    .string "like you to go in my place.$"
+    .string "U zadnje vrijeme viđeno je\n"
+    .string "mnogo rijetkih vrsta POKéMONA.\p"
+    .string "Riječ je o POKéMONIMA koji nikad\n"
+    .string "nisu viđeni u regiji KANTO.\p"
+    .string "Rado bih ih sam otišao vidjeti,\n"
+    .string "ali previše sam star.\p"
+    .string "Kad već ne mogu, {PLAYER}, volio\n"
+    .string "bih da ti odeš umjesto mene.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
-    .string "{RIVAL}: Hey, I heard that!\p"
-    .string "Gramps, what's with favoring\n"
-    .string "{PLAYER} over me all the time?\p"
-    .string "I went and collected more POKéMON,\n"
-    .string "and faster, too.\p"
-    .string "You should just let me handle\n"
-    .string "everything.$"
+    .string "{RIVAL}: Hej, čuo sam to!\p"
+    .string "Djede, zašto je uvijek\n"
+    .string "{PLAYER} ispred mene?\p"
+    .string "Ja sam skupio više POKéMONA,\n"
+    .string "i to brže.\p"
+    .string "Trebao bi meni prepustiti\n"
+    .string "sve.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
-    .string "OAK: I know, I know.\n"
-    .string "Of course I need your help, too.\p"
-    .string "Now, I need to see both your\n"
-    .string "POKéDEXES.$"
+    .string "OAK: Znam, znam.\n"
+    .string "Naravno da i tebe trebam.\p"
+    .string "Sad moram vidjeti oba vaša\n"
+    .string "POKéDEXA.$"
 
 PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
-    .string "PROF. OAK took both POKéDEX\n"
-    .string "units.$"
+    .string "PROF. OAK uzima oba\n"
+    .string "POKéDEXA.$"
 
 PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
     .string "… … …  … … …\p"
     .string "… … …  … … …\p"
-    .string "…And that's done!\p"
-    .string "Now these units can record data on\n"
-    .string "a lot more POKéMON.$"
+    .string "…I gotovo!\p"
+    .string "Sada mogu bilježiti podatke o\n"
+    .string "puno više POKéMONA.$"
 
 PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
-    .string "{PLAYER}'s POKéDEX was upgraded!$"
+    .string "{PLAYER}: POKéDEX je nadograđen!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
-    .string "Now, {PLAYER} and {RIVAL}!\p"
-    .string "This time, you really must work\n"
-    .string "towards filling your POKéDEXES.\p"
-    .string "I urge you to make them the best\n"
-    .string "and the most complete of all time!\p"
-    .string "Truly, this is a monumentally great\n"
-    .string "undertaking in POKéMON history!$"
+    .string "Dakle, {PLAYER} i {RIVAL}!\p"
+    .string "Ovaj put se stvarno morate\n"
+    .string "potruditi popuniti POKéDEXE.\p"
+    .string "Neka budu najbolji i\n"
+    .string "najpotpuniji svih vremena!\p"
+    .string "Ovo je zaista golem\n"
+    .string "pothvat u povijesti POKéMONA!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
-    .string "{RIVAL}: Gramps, calm down.\n"
-    .string "Don't get so excited.\p"
-    .string "I'll get the POKéDEX completed,\n"
-    .string "don't you worry about a thing.\p"
-    .string "I think I'll try looking around\n"
-    .string "ONE ISLAND first…\p"
-    .string "Anyways, I'm outta here!$"
-
+    .string "{RIVAL}: Djede, smiri se.\n"
+    .string "Ne uzbuđuj se toliko.\p"
+    .string "Ja ću popuniti POKéDEX,\n"
+    .string "ne brini ni za što.\p"
+    .string "Mislim da ću prvo malo\n"
+    .string "istražiti ONE ISLAND…\p"
+    .string "Uglavnom, ja idem!$"
