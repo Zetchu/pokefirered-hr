@@ -37,6 +37,7 @@ Na macOS-u uvijek koristiti `gmake`, ne `/usr/bin/make` (stari BSD/GNU 3.81).
 - `src/move_descriptions.c`: opisi napada
 - `src/data/items.json`: imena i opisi itema (`description_english`)
 - `src/data/text/*.h`: imena (species, moves, abilities, natures, trainer classes; ostaju EN osim natures/klasa po dogovoru), Teachy TV, Quest Log
+- `src/data/region_map/region_map_sections.json`: imena mjesta (`"name"`). Predlošci `*.json.txt` izvode nazive C varijabli iz ID-a (`sMapsecName_MAPSEC_*`), ne iz teksta, pa se imena smiju slobodno mijenjati.
 - `charmap.txt`: mapiranje znakova na bajtove
 - `graphics/fonts/latin_*.png` + `src/text.c`: font i širine glifova
 

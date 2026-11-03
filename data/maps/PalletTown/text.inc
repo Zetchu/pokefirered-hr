@@ -31,7 +31,7 @@ PalletTown_Text_RivalsHouse::
     .string "Kuća: {RIVAL}$"
 
 PalletTown_Text_TownSign::
-    .string "PALLET TOWN\n"
+    .string "GRADIĆ PALLET\n"
     .string "Ovdje počinju boje tvog putovanja!$"
 
 PalletTown_Text_OakLetMeSeePokedex::

@@ -19,8 +19,8 @@ Stalni prijevodi pojmova. Isti engleski pojam uvijek se prevodi isto. Novi pojam
 ## Opća pravila
 
 - **Obraćanje:** igraču se svi obraćaju s „ti“.
-- **Velika slova:** kao u engleskoj verziji: `POKéMON`, `POKé LOPTA`, imena gradova i likova (`OAK`, `PALLET TOWN`) ostaju velikim slovima.
-- **Ostaju na engleskom:** imena Pokémona, napada (moves), abilityja, gradova, ruta i likova (BROCK, MISTY, GIOVANNI…).
+- **Velika slova:** kao u engleskoj verziji: `POKéMON`, `POKé LOPTA`, imena mjesta i likova (`OAK`, `GRADIĆ PALLET`) ostaju velikim slovima.
+- **Ostaju na engleskom:** imena Pokémona, napada (moves), abilityja i likova (BROCK, MISTY, GIOVANNI…).
 - **Dinamička imena** (`{PLAYER}`, `{RIVAL}`, `{STR_VAR_1}`…): uvijek u nominativu, bez slaganja po rodu.
 - **Dinamički POKéMON** (`{B_ATK_NAME_WITH_PREFIX}`, ime Pokémona u varijabli i sl.): gramatički uvijek **muški rod**, jer je riječ POKéMON muškog roda. Vrijedi i za ženke i za nadimke („{X} se onesvijestio!“, „{X} je otrovan!“).
 - **Dinamički predmeti** (`{ITEM}` i sl.): predmeti mogu biti ženskog roda (POKé LOPTA → POKé LOPTU), pa ih ne stavljaj u akuzativ. Koristi dvotočku ili nominativ: „{PLAYER} pronalazi: {ITEM}!“, „Dobiveno: {ITEM}!“, „{ITEM} je spremljen/a“ ne, nego „Spremljeno u TORBU: {ITEM}.“
@@ -266,6 +266,126 @@ Prevode se, kratko (provjeri `TRAINER_CLASS_NAME_LENGTH`). Ako ista klasa vrijed
 ## Napadi i abilityji
 
 Imena ostaju na engleskom, opisi se prevode. Ideja: u opisu kratko navesti i hrvatski smisao imena, da ga igrač može vidjeti ako želi.
+
+## Mjesta
+
+- **Opća riječ ide ispred imena:** TOWN → GRADIĆ, CITY → GRAD, ROUTE → CESTA, ISLAND → OTOK… Vlastiti dio imena ostaje na engleskom i ne sklanja se. U rečenici se sklanja samo opća riječ: „u GRADU VIRIDIAN“, „iz GRADIĆA PALLET“, „na CESTI 1“.
+- **Ime mjesta u varijabli** (`{STR_VAR_1}` i sl.): samo nominativ, s dvotočkom („Susret: {STR_VAR_1}“).
+- **Ograničenja:** najviše 18 znakova (spremnik na karti) i 104 px (pregled špilje), odnosno 112 px (natpis pri ulasku). Izvor: `src/data/region_map/region_map_sections.json`.
+
+| Engleski | Hrvatski | Napomena |
+|---|---|---|
+| PALLET TOWN | GRADIĆ PALLET | (prijedlog) |
+| VIRIDIAN CITY | GRAD VIRIDIAN | (prijedlog) |
+| PEWTER CITY | GRAD PEWTER | (prijedlog) |
+| CERULEAN CITY | GRAD CERULEAN | (prijedlog) |
+| LAVENDER TOWN | GRADIĆ LAVENDER | (prijedlog) |
+| VERMILION CITY | GRAD VERMILION | (prijedlog) |
+| CELADON CITY | GRAD CELADON | (prijedlog) |
+| FUCHSIA CITY | GRAD FUCHSIA | (prijedlog) |
+| CINNABAR ISLAND | OTOK CINNABAR | (prijedlog) |
+| INDIGO PLATEAU | VISORAVAN INDIGO | (prijedlog) |
+| SAFFRON CITY | GRAD SAFFRON | (prijedlog) |
+| ROUTE 1 | CESTA 1 | (prijedlog) |
+| VIRIDIAN FOREST | ŠUMA VIRIDIAN | (prijedlog) |
+| MT. MOON | PLANINA MOON | (prijedlog) |
+| S.S. ANNE | S.S. ANNE | (prijedlog) |
+| UNDERGROUND PATH | PODZEMNI PROLAZ | (prijedlog) |
+| DIGLETT'S CAVE | ŠPILJA DIGLETT | (prijedlog) |
+| VICTORY ROAD | PUT POBJEDE | (prijedlog) |
+| ROCKET HIDEOUT | SKROVIŠTE RAKETA | (prijedlog) |
+| SILPH CO. | SILPH CO. | (prijedlog) |
+| POKéMON MANSION | POKéMON VILA | (prijedlog) |
+| SAFARI ZONE | SAFARI ZONA | (prijedlog) |
+| POKéMON LEAGUE | POKéMON LIGA | (prijedlog) |
+| ROCK TUNNEL | KAMENI TUNEL | (prijedlog) |
+| SEAFOAM ISLANDS | OTOCI SEAFOAM | (prijedlog) |
+| POKéMON TOWER | POKéMON TORANJ | (prijedlog) |
+| CERULEAN CAVE | ŠPILJA CERULEAN | (prijedlog) |
+| POWER PLANT | ELEKTRANA | (prijedlog) |
+| ONE ISLAND | PRVI OTOK | (prijedlog) |
+| TWO ISLAND | DRUGI OTOK | (prijedlog) |
+| THREE ISLAND | TREĆI OTOK | (prijedlog) |
+| FOUR ISLAND | ČETVRTI OTOK | (prijedlog) |
+| FIVE ISLAND | PETI OTOK | (prijedlog) |
+| SIX ISLAND | ŠESTI OTOK | (prijedlog) |
+| SEVEN ISLAND | SEDMI OTOK | (prijedlog) |
+| KINDLE ROAD | PUT KINDLE | (prijedlog) |
+| TREASURE BEACH | PLAŽA BLAGA | (prijedlog) |
+| CAPE BRINK | RT BRINK | (prijedlog) |
+| BOND BRIDGE | MOST PRIJATELJSTVA | (prijedlog) |
+| THREE ISLE PORT | LUKA TREĆEG OTOKA | (prijedlog) |
+| SEVII ISLE 6 | OTOK SEVII 6 | (prijedlog) |
+| SEVII ISLE 7 | OTOK SEVII 7 | (prijedlog) |
+| SEVII ISLE 8 | OTOK SEVII 8 | (prijedlog) |
+| SEVII ISLE 9 | OTOK SEVII 9 | (prijedlog) |
+| SEVII ISLE 22 | OTOK SEVII 22 | (prijedlog) |
+| SEVII ISLE 23 | OTOK SEVII 23 | (prijedlog) |
+| SEVII ISLE 24 | OTOK SEVII 24 | (prijedlog) |
+| RESORT GORGEOUS | RAJSKO ODMARALIŠTE | (prijedlog) |
+| WATER LABYRINTH | VODENI LABIRINT | (prijedlog) |
+| FIVE ISLE MEADOW | LIVADA PETOG OTOKA | (prijedlog) |
+| MEMORIAL PILLAR | SPOMEN-STUP | (prijedlog) |
+| OUTCAST ISLAND | OTOK IZGNANIKA | (prijedlog) |
+| GREEN PATH | ZELENA STAZA | (prijedlog) |
+| WATER PATH | VODENA STAZA | (prijedlog) |
+| RUIN VALLEY | DOLINA RUŠEVINA | (prijedlog) |
+| TRAINER TOWER | TORANJ TRENERA | (prijedlog) |
+| CANYON ENTRANCE | ULAZ U KANJON | (prijedlog) |
+| SEVAULT CANYON | KANJON SEVAULT | (prijedlog) |
+| TANOBY RUINS | RUŠEVINE TANOBY | (prijedlog) |
+| NAVEL ROCK | STIJENA NAVEL | (prijedlog) |
+| MT. EMBER | PLANINA EMBER | (prijedlog) |
+| BERRY FOREST | ŠUMA BOBICA | (prijedlog) |
+| ICEFALL CAVE | LEDENA ŠPILJA | (prijedlog) |
+| ROCKET WAREHOUSE | SKLADIŠTE RAKETA | (prijedlog) |
+| DOTTED HOLE | RUPA S TOČKAMA | (prijedlog) |
+| LOST CAVE | IZGUBLJENA ŠPILJA | (prijedlog) |
+| PATTERN BUSH | ŠARENO GRMLJE | (prijedlog) |
+| ALTERING CAVE | ŠPILJA PROMJENA | (prijedlog) |
+| TANOBY CHAMBERS | ODAJE TANOBY | (prijedlog) |
+| THREE ISLE PATH | STAZA TREĆEG OTOKA | (prijedlog) |
+| TANOBY KEY | KLJUČ TANOBY | (prijedlog) |
+| BIRTH ISLAND | OTOK ROĐENJA | (prijedlog) |
+| MONEAN CHAMBER | ODAJA MONEAN | (prijedlog) |
+| LIPTOO CHAMBER | ODAJA LIPTOO | (prijedlog) |
+| WEEPTH CHAMBER | ODAJA WEEPTH | (prijedlog) |
+| DILFORD CHAMBER | ODAJA DILFORD | (prijedlog) |
+| SCUFIB CHAMBER | ODAJA SCUFIB | (prijedlog) |
+| RIXY CHAMBER | ODAJA RIXY | (prijedlog) |
+| VIAPOIS CHAMBER | ODAJA VIAPOIS | (prijedlog) |
+| EMBER SPA | TOPLICE EMBER | (prijedlog) |
+| CELADON DEPT. | ROBNA KUĆA CELADON | (prijedlog) |
+| ROUTE 2…25 | CESTA 2…25 | (prijedlog) |
+
+## Prijedlozi iz borbe i izbornika
+
+| EN | HR | Napomena |
+|---|---|---|
+| Ally / Foe (cijela strana) | Tvoj tim / Protivnički tim | (prijedlog) „Protivnički tim: REFLECT prestaje djelovati!“ |
+| {X}'s {ABILITY} / {ITEM} | {ABILITY} ({X}) | (prijedlog) posljedica u drugom retku, u nominativu |
+| in love with {X} | Simpatija: {X} | (prijedlog) |
+| GHOST (Pokémon Tower) | DUH | (prijedlog) |
+| ANNOUNCER | NAJAVLJIVAČ | (prijedlog) |
+| old man | starac | (prijedlog) |
+| SAFARI GAME | SAFARI IGRA | (prijedlog) |
+| COINS | ŽETONI | (prijedlog) „ŽETONI: {N}“ |
+| MAILBOX | SANDUČIĆ | (prijedlog) |
+| ITEM STORAGE | SPREMIŠTE | (prijedlog) |
+| TRAINER CARD | KARTICA | (prijedlog) kod dodaje ime ispred: „RED: KARTICA“ |
+| SPA | TOPLICE | (prijedlog) |
+| BUY / SELL / SEE YA! | KUPI / PRODAJ / BOK! | (prijedlog) |
+| WITHDRAW / DEPOSIT (PC) | UZMI / OSTAVI | (prijedlog) |
+| BATTLE STYLE: SHIFT / SET | STIL BORBE: ZAMJENA / STALNO | (prijedlog) |
+| {NATURE} nature. | Narav: {NATURE}. | (prijedlog) |
+| MYSTERY GIFT, HALL OF FAME, DAY-CARE, ITEMFINDER, POKé FLUTE | ostaju | (prijedlog) |
+
+Širine izbornika (provjereno u kodu):
+
+- START izbornik: 48 px teksta (POSTAVKE je točno 48).
+- DAJ / UZMI / ODUSTANI u ekipi: 48 px (ODUSTANI je točno 48).
+- Poruke na dnu ekipe: 168 px; opisi poteza na terenu (CUT, FLY…): 144 px.
+- Postavke: nazivi od x=8 do 130, vrijednosti od 130, najviše 70 px.
 
 ## Otvoreno (odlučiti kasnije)
 
