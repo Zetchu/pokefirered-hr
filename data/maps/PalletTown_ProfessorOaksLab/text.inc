@@ -20,7 +20,7 @@ PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
     .string "{RIVAL} dobiva {STR_VAR_1}\n"
-    .string "od PROF. OAKA!$"
+    .string "od PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
     .string "{RIVAL}: Moj POKéMON izgleda\n"
@@ -124,7 +124,7 @@ PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
     .string "{PLAYER} dobiva {STR_VAR_1}\n"
-    .string "od PROF. OAKA!$"
+    .string "od PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
     .string "OAK: Ako se pojavi divlji POKéMON,\n"
@@ -173,7 +173,7 @@ PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
     .string "{PLAYER} dobiva POKéDEX\n"
-    .string "od PROF. OAKA.$"
+    .string "od PROF. OAK.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
     .string "OAK: Samo gledanjem ne dobivaš\n"
@@ -238,7 +238,7 @@ PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls::
 
 PalletTown_ProfessorOaksLab_Text_OaksLastMon::
     .string "To je posljednji POKéMON\n"
-    .string "PROF. OAKA.$"
+    .string "kojeg PROF. OAK ima.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
     .string "Pritisni START za IZBORNIK!$"
@@ -266,8 +266,8 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
     .string "…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
-    .string "Proučavam POKéMONE kao\n"
-    .string "POMOĆNIK PROF. OAKA.$"
+    .string "Ja sam POMOĆNIK. PROF. OAK i ja\n"
+    .string "zajedno proučavamo POKéMONE.$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "Bok, {PLAYER}. Ti i tvoji POKéMONI\n"
@@ -285,7 +285,7 @@ PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
     .string "PROF. OAK će uskoro imati svoju\n"
     .string "radijsku emisiju.\p"
     .string "Emisija će se zvati\n"
-    .string "POKéMON SEMINAR PROF. OAKA.$"
+    .string "“PROF. OAK: POKéMON SEMINAR”.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
     .string "PROF. OAK možda ne izgleda kao\n"
